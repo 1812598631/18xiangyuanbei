@@ -4,7 +4,7 @@
   *公式为*  
 硬件条件为 370电机差速底盘 主控板：Arduino Mega2560 电机驱动：TB6612   
 实物：  
-![循迹小车](‪C:\Users\Administrator\Desktop\QQ图片20191118105735.jpg)
+![循迹小车](‪file:///C:/Users/Administrator/AppData/Roaming/Tencent/QQ/Temp/%7B5D40983B-0557-63AC-2CFC-A71C2FFEFAE7%7D.jpg)
 舵机车将PID输出值从左右电机速度差值  更改为舵机转角即可    
 翔远杯程序可以用 if-else 将每个遇到黑线的情况列举出来 来对应不同的处理    
 例如：https://www.geek-workshop.com/forum.php?mod=viewthread&tid=29080&highlight=PID 这里面用switch case语句来对应不同情况进行处理，适当参考。
